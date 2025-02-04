@@ -1,7 +1,6 @@
 # 🚦 Projeto: Semáforo com Temporizador Periódico  
-**(Seu Nome Aqui)**
+**(Daniel Silva de Souza) - Danngas**
 
-### [Vídeo Demonstrativo do Projeto](#) *(adicione o link do vídeo aqui, se disponível)*
 
 ## 📌 Descrição  
 
