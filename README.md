@@ -29,7 +29,7 @@ O projeto foi desenvolvido como parte de uma atividade prática que exigia o uso
 ✔️ **Inicialização no vermelho:** O semáforo começa no estado vermelho.  
 ✔️ **Alternância automática:** A cada 3 segundos, o semáforo muda para a próxima cor (vermelho → amarelo → verde).  
 ✔️ **Feedback no terminal:** A cada mudança de estado, uma mensagem é exibida no terminal indicando a cor atual.  
-✔️ **Simulação no Wokwi:** O projeto pode ser simulado no Wokwi, conforme mostrado no vídeo associado à atividade.  
+✔️ **Simulação no Wokwi:** O projeto pode ser simulado no Wokwi. 
 
 ---
 
@@ -39,7 +39,6 @@ O projeto foi desenvolvido como parte de uma atividade prática que exigia o uso
 2. **Temporização de 3 segundos:** Cada estado deve durar exatamente 3 segundos.  
 3. **Função de callback:** A mudança de estado dos LEDs deve ser implementada na função de callback do temporizador.  
 4. **Feedback no terminal:** A cada segundo, uma mensagem deve ser enviada pela porta serial.  
-5. **Experimento com LED RGB:** Utilizar o LED RGB da ferramenta BitDogLab para simular o semáforo.  
 
 ---
 
